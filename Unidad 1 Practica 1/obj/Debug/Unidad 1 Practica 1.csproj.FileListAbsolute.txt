@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.exe.config
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.exe
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.pdb
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.exe
+C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.pdb
