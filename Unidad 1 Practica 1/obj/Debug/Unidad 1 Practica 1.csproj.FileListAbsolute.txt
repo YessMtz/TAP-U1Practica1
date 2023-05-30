@@ -5,3 +5,11 @@ C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1
 C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.CoreCompileInputs.cache
 C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.exe
 C:\Users\admin\Desktop\1. Topicos Avanzados de programación\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.pdb
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.exe.config
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.exe
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\bin\Debug\Unidad 1 Practica 1.pdb
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.AssemblyReference.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.exe
+C:\Users\LAB-DSC-ITT\Documents\GitHub\TAP-U1Practica1\Unidad 1 Practica 1\obj\Debug\Unidad 1 Practica 1.pdb
